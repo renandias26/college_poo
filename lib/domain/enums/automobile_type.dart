@@ -1,0 +1,1 @@
+enum AutomobileType{tour, professionalTour, freight, tranport}

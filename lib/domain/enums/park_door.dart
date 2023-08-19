@@ -1,0 +1,1 @@
+enum ParkDoor{automatic, manual}
